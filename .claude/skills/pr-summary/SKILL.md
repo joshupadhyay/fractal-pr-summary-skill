@@ -1,6 +1,7 @@
 ---
 name: pr-summary
 description: Displays a summary of your PRs for the day across all repos using gh CLI. Use when the user wants to review daily PRs, do an afternoon or evening check-in, or asks about their PR activity.
+allowed-tools: Bash(bash .claude/skills/pr-summary/scripts/pr-summary.sh *), Bash(gh search prs *)
 ---
 
 # PR Summary
