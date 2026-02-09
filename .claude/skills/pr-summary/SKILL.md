@@ -37,6 +37,10 @@ Each PR shows:
 
 Footer shows new count vs total for the day.
 
+## Important
+
+When you run the script, return the shell output directly to the user as-is. Do NOT reformat, summarize, or pretty-print the results. Just show the raw terminal output.
+
 ## Requirements
 
 - `gh` CLI authenticated
