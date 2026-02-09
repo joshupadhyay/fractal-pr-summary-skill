@@ -87,3 +87,7 @@ To force-reset the seen list mid-day:
 ```bash
 bash scripts/pr-summary.sh --clear
 ```
+
+## Josh's Note:
+
+I typically just say `/pr-summary afternoon` or `/pr-summary evening`
