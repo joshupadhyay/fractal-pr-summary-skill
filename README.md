@@ -1,5 +1,9 @@
 # pr-summary
 
+DO YOU FIND IT ANNOYING TO COPY PASTE MULTIPLE TIMES?! ME TOO!! 
+
+This should really be just a shell script, but since we're practicing claude skills..
+
 A Claude Code skill that shows your GitHub PRs for the day across all repos. Run it multiple times — it tracks what you've already seen so you only get new PRs on repeat runs.
 
 ## How it works
